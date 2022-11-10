@@ -1,0 +1,52 @@
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+  background-color: #e9f8ff;
+}
+
+.marketing {
+  padding-top: 5rem;
+}
+
+.featurette-divider {
+  margin: 5rem 0;
+}
+
+.featurette-heading {
+  letter-spacing: -0.05rem;
+}
+
+.service-image1 {
+  background-image: url(../img/drone_cover.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.service-image2 {
+  background-image: url(../img/app_cover.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.service-image3 {
+  background-image: url(../img/local_cover.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-muted {
+  color: #0d6efd !important;
+}
+
+@media (min-width: 40em) {
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+}
