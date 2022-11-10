@@ -21,7 +21,7 @@ Entregável da GS 2 de _Advanced Programming & Mobile Dev_, professor:
 ## Sobre :book:
 
 <p align="justify">
-    A atividade consiste em criar um <strong><a href="https://lcesadm.github.io/sky-delivery/" target="_blank">hotsite</a></strong> do tema da global solution <i>Smart Mobility for a Better Tomorrow</i> sobre uma empresa de drones que fornecem serviços de delivery para clientes de empresa ou consumidor, utilizando o <strong><a href="https://github.com/lcesadm/sky-delivery-app" target="_blank">aplicativo mobile</a></strong> para administrar e gerencias as entregas de drone.
+    A atividade consiste em criar um <strong><a href="https://lcesadm.github.io/sky-delivery/" target="_blank">hotsite</a></strong> do tema da global solution <i>Smart Mobility for a Better Tomorrow</i> sobre uma empresa de drones que fornecem serviços de delivery para clientes de empresa ou consumidor, utilizando o <strong><a href="https://github.com/lcesadm/sky-delivery-app" target="_blank">aplicativo mobile</a></strong> para administrar e gerenciar as entregas do drone.
 </p>
 <p align="center">
     <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
